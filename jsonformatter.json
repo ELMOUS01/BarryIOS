@@ -3,7 +3,7 @@
     "Index_2": 4,
     "UseCheckpoints": true,
     "UseBoth": false,
-    "UseApplovinOnly": false,
+    "UseApplovinOnly": true,
     "UseUnityOnly": false,
-    "UseAdmob": true
+    "UseAdmob": false
 }
